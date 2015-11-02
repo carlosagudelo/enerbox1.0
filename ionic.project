@@ -1,0 +1,6 @@
+{
+  "name": "esp-mqtt-ionic",
+  "app_id": ""
+}
+
+"gulpStartupTasks": ["sass", "watch"]
